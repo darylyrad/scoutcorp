@@ -1,0 +1,62 @@
+Title: Case Studies
+
+----
+
+Text: 
+
+----
+
+Caselist: 
+
+- 
+  casetitle: Euismod Purus Venenatis
+  casequote: >
+    Curabitur blandit tempus porttitor.
+    Morbi leo risus, porta ac consectetur
+    ac, vestibulum at eros. Nulla vitae elit
+    libero, a pharetra augue.
+  quoteauthor: Venenatis Elit
+  caseimage: cold-river.jpg
+  casetext: |
+    Duis mollis, est non **commodo** luctus, nisi erat *porttitor* ligula, eget lacinia odio sem nec elit. Nullam quis risus eget urna mollis ornare vel eu leo. Donec id elit non mi porta gravida at eget metus. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Cras mattis consectetur purus sit amet fermentum. Cras justo odio, dapibus ac facilisis in, egestas eget quam.
+    
+    Donec ullamcorper nulla non metus auctor fringilla. Donec ullamcorper nulla non metus auctor fringilla. Curabitur blandit tempus porttitor. Aenean lacinia bibendum nulla sed consectetur. Cras mattis consectetur purus sit amet fermentum. Maecenas sed diam eget risus varius blandit sit amet non magna.
+- 
+  casetitle: Quam Ultricies Parturient Risus
+  casequote: >
+    Aenean eu leo quam. Pellentesque ornare
+    sem lacinia quam venenatis vestibulum.
+    Vestibulum id ligula porta felis euismod
+    semper. Donec ullamcorper nulla non
+    metus auctor fringilleo.
+  quoteauthor: 'Aenean Pellentesque - Sem Parturient Venenatis'
+  caseimage: crafty_home.jpg
+  casetext: |
+    Etiam porta sem **malesuada** magna mollis *euismod*. Maecenas sed diam eget risus varius blandit sit amet non magna. Nullam id dolor id nibh ultricies vehicula ut id elit. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Maecenas faucibus mollis interdum.
+    
+    Vestibulum id ligula porta felis euismod semper. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. Donec id elit non mi porta gravida at eget metus. Donec id elit non mi porta gravida at eget metus.
+- 
+  casetitle: >
+    Ornare Euismod Tristique Pharetra
+    Ridiculus
+  casequote: >
+    Praesent commodo cursus magna, vel
+    scelerisque nisl consectetur et. Donec
+    ullamcorper nulla non metus auctor
+    fringilla. Cum sociis natoque penatibus
+    et magnis dis parturient montes,
+    nascetur ridiculus mus.
+  quoteauthor: 'Pellentesque Inceptos - Amet Consectetur'
+  caseimage: tools.jpg
+  casetext: |
+    Maecenas sed diam eget risus **varius blandit** sit amet non *magna*. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Aenean lacinia bibendum nulla sed consectetur. Curabitur blandit tempus porttitor. Donec id elit non mi porta gravida at eget metus.
+    
+    Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Nullam id dolor id nibh ultricies vehicula ut id elit. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla vitae elit libero, a pharetra augue.
+
+----
+
+Readbtntxt: read more
+
+----
+
+Modalcontactbtntxt: contact us

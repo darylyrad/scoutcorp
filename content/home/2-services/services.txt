@@ -1,0 +1,65 @@
+Title: Our Services
+
+----
+
+Text: 
+
+We partner with our clients by providing tailored, specialist property services that handle the management of all aspects of the property realisation process.  
+
+We are passionate about achieving maximum benefits for our clients through the end to end management of all matters surrounding the property asset and we work as an advocate for people who need independent support whilst navigating the property sales process.
+
+Our clients nationwide rely on our expertise, skills and knowledge of the property realisation process, for all types of property, to assist them in achieving their goals.
+
+----
+
+Servicelist: 
+
+- 
+  servicetitle: 'Mortgagee, Bankruptcy, & Insolvency'
+  serviceimage: ""
+  servicetext: |
+    With a long and established list of Mortgagee, Insolvency, Trustee and Liquidator clients, Scout Corp has built its business Australia-wide to *provide a professional and unrivalled process to manage the disposal of property assets* related to mortgagee in possession, bankruptcy, insolvency and liquidation matters.
+    
+    We *add value* for our clients by providing a specialist property service that manages all aspects of the property realisation process, and **gives our clients and their teams peace of mind**.
+    
+    From the initial investigation to determine the equity position for the property, to full chattels management, maintenance, through to the property settlement, Scout Corp's streamlined services meet all our client's needs.
+    
+    With extensive experience managing both legal and sales processes, Scout Corp will provide you with a *trusted specialist in all aspects of Mortgagee and Trustee sales*, to personally manage the sale, marketing and overall project management of each listing.
+    
+    With agents and maintenance contractors Australia-wide, Scout Corp can service any State in Australia. Scout Corp will *negotiate with agents and contractors to offset their costs until settlement*, relieving stress for our clients who do not hold funds within that estate.
+- 
+  servicetitle: 'Charity Clients & Bequests'
+  serviceimage: ""
+  servicetext: |
+    Charity Bequests account for 20% of over $1.1 billion dollars generated in fundraising income in Australia, making it a very important source of revenue that help some of Australia’s worthiest causes. *Pareto Benchmarking 2015
+    
+    Our *successful Vendor’s Advocacy Service* assists our Charity Clients with all aspects of bequest estate sales, providing consultation services on the property disposal and managing a through the line service throughout. From interviewing agents to providing recommendations, Scout Corp will work closely with appointed agents through the process.
+    
+    We are highly experienced in the management and sale of older style and heritage type assets for our clients who are looking to streamline their portfolio.
+    
+    Our main focus is in ensuring the maximum sale price is achieved. A high level of care and understanding is required when dealing with Bequests and to ensure that we adhere to the strict terms in a deceased’s Will. These types of property transactions are always *treated in the most sensitive and respectful way*.
+- 
+  servicetitle: Vendor Advocacy
+  serviceimage: ""
+  servicetext: |
+    Selling your home can be incredibly stressful.  Our Vendor Advocacy service allows you to have one point of call to handle all aspects of the property sale process.
+    Our *Vendor Advocacy clients use this service get clear, concise and honest information in relation to the sale of their property*. Scout Corp becomes the buffer between the Seller and a Real Estate Agent, working with them and you to achieve great results.
+    
+    Starting with a thorough interviewing process to select the right agent for the sale of your property, we take on all project management of the sale including, repairs, cosmetic changes, negotiating with potential buyers, marketing and closure. Our *commitment is to you* and ensuring you achieve maximum exposure to the market.
+- 
+  servicetitle: Estates and Executors
+  serviceimage: ""
+  servicetext: |
+    Scout Corp is passionate about supporting this work by tailoring a unique service for Solicitors, Trustees or Executors, to **ensure the beneficiaries obtain the maximum return** on any property sales.
+    
+    Our *successful Vendor’s Advocacy Service* assists our Estate Solicitors and Executors with all aspects of the sale process and by providing consultation services on the maintenance requirements prior to property disposal and managing a through the line service throughout. From interviewing agents to providing recommendations, Scout Corp will work closely with appointed agents through the process.
+    
+    Our main focus is in ensuring the maximum sale price is achieved. A high level of care and understanding is required when dealing with Executor’s of Estates and to ensure that we adhere to the strict terms in a deceased’s Will. These types of property transactions are always *treated in the most sensitive and respectful way*.
+
+----
+
+Contactbtntxt: contact us
+
+----
+
+Modalcontactbtntxt: contact us

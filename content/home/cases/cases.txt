@@ -1,0 +1,83 @@
+Title: Case Studies
+
+----
+
+Text: 
+
+----
+
+Caselist: 
+
+- 
+  casetitle: Harris Park, NSW
+  casequote: ""
+  quoteauthor: ""
+  caseimage: main.jpg
+  casetext: |
+    We were engaged by our Trustee client to manage the preparation and sale of a property in Harris Park.  The property was occupied and the occupants agreed to move out so the property could be sold.  All chattels including furniture, tools and personal belongings were packed by our removalists with an inventory taken and moved to a storage facility to which the occupants were given full access.
+    
+    Maintenance works were required including ceiling repairs from a recent storm, rubbish removal, garden maintenance and cleaning.
+    
+    The property itself was quite unique.  It was a residential zoning located on a main street where all the other properties were zoned for commercial use.  There were a lot of restaurants, doctor’s surgeries and convenience stores.  The property was also heritage listed.  A lot of works were required to restore the property back to its former glory and there was also an extension at the rear of the property which was built in the 1980’s but did not meet with the heritage guidelines.
+    
+    Valuing the property was a challenge as there were no properties close by that were comparable or had been sold recently.  Our valuer saw value around the $950,000 range.
+    
+    The best strategy for the property was sale by Auction.  Marketing commenced and throughout the campaign, we had approximately 35 groups attend to inspect the property.   All buyers needed to make their own enquiries with the Council to see what type of use the property could be rezoned to.
+    
+    After a very successful campaign and an excellent attendance at the auction with 8 registered bidders, the property sold under the hammer for $1,400,500.
+- 
+  casetitle: Melbourne, VIC
+  casequote: ""
+  quoteauthor: ""
+  caseimage: 46_scarlet_dve_d2d_01.jpg
+  casetext: |
+    Our client was a Trustee in Bankruptcy and the property was located approximately 35km from Melbourne, VIC.  The bankrupt and their partner left the property of their own accord, even cleaning the house and mowing the lawns. We initially invited three real estate agents to provide a proposal.  We found that the opinions of value for the property varied greatly (by more than $150,000) so we engaged a fourth agent to provide a submission due to the large variance.  An agent at the higher end of the scale was appointed. Two of the four agents recommended that hire furniture be installed in the property, which was approved by our client. In many areas of Victoria, there has been a large rise in property values creating a lot of demand and competition for property.  Auction was our chosen method of sale.
+    
+    Marketing commenced and open homes were scheduled throughout the marketing period with one mid-week and one weekend viewing.  Throughout the marketing program, 33 groups inspected the property. On Auction Day, the property was sold under the hammer for 10% higher than the valuation which was a great result not only for the client and their creditors but also the Bankrupt.
+    
+    The settlement period included the Christmas holidays in which both the real estate agency and solicitors were closed. We were able to engage our maintenance contractor to provide upkeep for the lawns and ensuring the property was well presented for the final pre-settlement inspection by the purchaser.
+    
+    The matter has now settled.
+- 
+  casetitle: Nerang, QLD
+  casequote: ""
+  quoteauthor: ""
+  caseimage: nerang.jpg
+  casetext: |
+    An eviction was scheduled at the property and our client had originally found the bankrupt unco-operative in their previous dealings.  Drive by appraisals were obtained prior to proceeding with possession orders and it was found there was sufficient equity in the property despite the volatile QLD property market.
+    
+    On the day of eviction, Scout Corp arranged an agent/ locksmith and a removalist to remove all of the belongings inside the property.  As the property was set on a large lot with a number of sheds which housed building equipment, including timber etc, these items were not included in the regular chattels at the property that were moved into storage.  The eviction process was completed without a hitch although the agent was required to re-attend for a second day with the removalists due to the sheer volume of chattels at the property.
+    
+    The property was secured, three agents were invited to tender and during this process, there was a break in one of the sheds and the police were notified.  Nothing of any value was taken.
+    
+    Our agent was selected and quotes for works were obtained.  The property was strewn with rubbish and various items and the clean up bill was larger than average.  We also managed to negotiate with a local timber merchant and arranged to collect the remaining timber at no charge.  Our maintenance contractor completed the works at the property within 9 days and the property was placed on the market shortly thereafter.
+    
+    The marketing of the property gauged some good interest and the property was sold at $23,000 above valuation and reserve.
+    
+    This property has now settled.
+- 
+  casetitle: Banora Point, NSW
+  casequote: ""
+  quoteauthor: ""
+  caseimage: >
+    032_open2view_id469497-18_tyrone_terrace__tweed_heads_south.jpg
+  casetext: |
+    Our client was appointed as Trustee for Sale for a deceased estate for a property in Banora Point NSW.
+    
+    Initially, the deceased’s son had resided in the property with friends but after an argument broke out between the occupants, the occupants ejected the deceased’s son from the property and the remaining occupants refused to leave.  The property and the occupants were “well known” by the local police after several visits after complaints of violence with neighbours and amongst themselves.
+    
+    In this case, as the occupants were not in a lease agreement for the property and were effectively “squatting”, we were able to enlist the help of the local police who were more than happy to assist.  As a last-ditch attempt, a fresh 7-day notice advising the occupants that repossession was imminent, they contacted us and agreed to leave the property peacefully.  However, the property was left in an extremely poor and damaged state.
+    
+    Initial indications of value provided by the local agents confirmed the property to be worth around $380,000 - $400,000 in its present condition.
+    
+    Our amazing contractors got to work and transformed the property.   This included new flooring, repairs to damaged walls and ceilings, reinstall damaged bathroom fittings, reinstall stolen kitchen appliances, full repaint and complete garden maintenance.
+    
+    The property was sold at auction for an excellent price of $475,000.
+
+----
+
+Readbtntxt: read more
+
+----
+
+Modalcontactbtntxt: contact us

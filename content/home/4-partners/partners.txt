@@ -1,0 +1,51 @@
+Title: Our Partners
+
+----
+
+Text: 
+
+----
+
+Partnerlist: 
+
+- 
+  partnername: Condon Associates
+  partnerlogo: condon-associates-group-logo-h.png
+  partnerurl: >
+    http://www.thecondongroup.com.au/services/condon-associates/
+- 
+  partnername: PKF
+  partnerlogo: pkf-image.png
+  partnerurl: https://www.pkf.com.au
+- 
+  partnername: FerrierSilvia
+  partnerlogo: snip20210426_29.png
+  partnerurl: https://www.ferriersilvia.com.au/
+- 
+  partnername: Jones Partners
+  partnerlogo: jones-2.jpg
+  partnerurl: http://www.jonespartners.net.au
+- 
+  partnername: SV Partners
+  partnerlogo: image007.jpg
+  partnerurl: http://www.svpartners.com.au
+- 
+  partnername: ReVIVE Financial
+  partnerlogo: snip20190307_1.png
+  partnerurl: https://revivefinancial.com.au/
+- 
+  partnername: Daniela Fazio Lawyers
+  partnerlogo: snip20200228_1.png
+  partnerurl: http://www.danielafazio.com/
+- 
+  partnername: Pepper Money
+  partnerlogo: snip20210426_30.png
+  partnerurl: https://www.pepper.com.au/lending
+- 
+  partnername: Solomon Tudehope Solicitors
+  partnerlogo: snip20210426_31.png
+  partnerurl: ""
+- 
+  partnername: Vincents
+  partnerlogo: snip20210426_32.png
+  partnerurl: https://vincents.com.au/

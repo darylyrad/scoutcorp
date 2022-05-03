@@ -1,0 +1,19 @@
+title: Error
+icon: bug
+options: 
+  preview: true
+  status: false
+  template: false
+  url: false
+  delete: false
+pages: false
+files: 
+  sortable: true
+  sanitize: true
+fields:
+  title:
+    label: Title
+    type:  text
+  text:
+    label: Text
+    type:  textarea

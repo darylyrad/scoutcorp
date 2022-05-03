@@ -1,0 +1,24 @@
+Title: Current Listings
+
+----
+
+Text: 
+
+----
+
+Selectedlistings: 
+
+- 
+  listingtitle: 8/46 Meacher Street, Mt Druitt
+  shortdescription: ""
+  listingimage: 1.jpg
+  listingtext: >
+    http://www.realestate.com.au/property-villa-nsw-mount+druitt-124917486
+
+----
+
+Contactbtntxt: contact us
+
+----
+
+Modalcontactbtntxt: contact us

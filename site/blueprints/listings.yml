@@ -1,0 +1,52 @@
+title: Listings
+icon: list-alt
+preview: parent
+options: 
+  preview: true
+  status: true
+  template: false
+  url: false
+  delete: false
+pages: false
+files: 
+  sanitize: true
+  sortable: true
+fields: 
+  title: 
+    label: Title
+    type: title
+  selectedListings:
+    label: Selected Listings
+    type: structure
+    modalsize: large
+    entry: > 
+      <strong>{{listingtitle}}</strong><br>
+      {{shortdescription}} - <em>{{listingimage}}</em>
+    fields:
+      listingTitle:
+        label: Title
+        type: text
+        required: true
+      shortDescription:
+        label: Short Description
+        type: text 
+      listingImage:
+        label: Image 
+        type: image
+        required: true
+        help: ideal image size is 1200(wide)x750(tall)pixels - larger images will be resized and cropped automatically.
+      listingText:
+        label: Modal Text
+        type: textarea
+  contactBtnTxt:
+    label: Main 'Contact' Button Label
+    type: text
+    width: 1/2
+    placeholder: contact us
+    help: if left empty, the contact button will not be available on the page
+  modalContactBtnTxt:
+    label: Modal 'Contact' Button Label
+    type: text
+    width: 1/2
+    placeholder: contact us
+    help: if left empty, the contact button will not be available at the bottom of all listing modals     

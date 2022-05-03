@@ -1,0 +1,48 @@
+title: Home
+icon: home
+options: 
+  preview: true
+  status: false
+  template: false
+  url: false
+  delete: false
+pages:
+  template:
+    - about
+    - cases
+    - contact
+    - listings
+    - partners
+    - services
+    - staff
+  num:
+    mode: default
+    display: null
+  max: "7"
+  limit: 20
+  sort: false
+  hide: false
+files: 
+  sortable: true
+  sanitize: true
+fields:
+  title:
+    label: Title
+    type: title
+  pagemeta:
+    label: Page Metadata
+    type: headline
+  description:
+    label: Description
+    type:  textarea
+    buttons: false
+    help: > 
+      short text - < 200 characters - displayed in search engine results, 
+      and when previewing your site in social media.
+  mainImage:
+      label: Page Image 
+      type: image
+      required: true
+      help: > 
+        Image used by search engines and social media sites when listing this page.
+        Ideal image size is 1200(wide)x630(tall)pixels - larger images will be resized and cropped automatically.

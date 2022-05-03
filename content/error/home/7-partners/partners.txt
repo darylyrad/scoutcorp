@@ -1,0 +1,46 @@
+Title: Our Partners
+
+----
+
+Text: 
+
+----
+
+Partnerlist: 
+
+- 
+  partnername: Apple Australia
+  partnerlogo: apple_logo_black.png
+  partnerurl: http://apple.com.au
+- 
+  partnername: Pepsi
+  partnerlogo: pepsi_logo.png
+  partnerurl: http://pepsi.com
+- 
+  partnername: NASA
+  partnerlogo: nasa_logo.png
+  partnerurl: http://nasa.gov
+- 
+  partnername: CNN
+  partnerlogo: cnn-logo-square.png
+  partnerurl: http://cnn.com
+- 
+  partnername: Hilton Resorts
+  partnerlogo: hiltonresortslogo_white.jpg
+  partnerurl: http://hilton.com
+- 
+  partnername: Toyota Australia
+  partnerlogo: toyota-symbol-3.jpg
+  partnerurl: http://toyota.com.au
+- 
+  partnername: Coca Cola
+  partnerlogo: coca-cola.png
+  partnerurl: http://cocacola.com
+- 
+  partnername: IBM
+  partnerlogo: ibm.jpg
+  partnerurl: http://ibm.com
+- 
+  partnername: Sheraton Hotels
+  partnerlogo: sheraton_hotels.svg.png
+  partnerurl: http://sheraton.com

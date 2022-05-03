@@ -1,0 +1,13 @@
+Title: Home
+
+----
+
+Description: Scout Corp is a company based in Sydney, Australia. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Nullam quis risus eget urna mollis ornare vel leo.
+
+----
+
+Keywords: property sales,property buyers,bankruptcy real estate,sydney hills real estate
+
+----
+
+Mainimage: scout-home-img.jpg

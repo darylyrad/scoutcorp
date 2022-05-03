@@ -1,0 +1,72 @@
+Title: Site Title
+
+----
+
+Facebook-url: http://facebook.com
+
+----
+
+Linkedin-url: http://linkedin.com
+
+----
+
+Instagram-url: http://instagram.com
+
+----
+
+Twitter-url: http://twitter.com
+
+----
+
+Pinterest-url: 
+
+----
+
+Youtube-url: 
+
+----
+
+Show-social-contacts: 0
+
+----
+
+Show-social-menu: 1
+
+----
+
+Footer-txt: 
+
+© 2017, Scout Corp - all rights reserved.
+Site made with <i class="uk-icon-heart"></i> by (link: https://macservery.com text: MacServery).
+
+----
+
+Terms-txt: 
+
+## First Subheading
+Sed posuere **consectetur** est at lobortis. Donec sed *odio dui*. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed posuere consectetur est at lobortis. Donec sed odio dui. Maecenas faucibus mollis interdum.
+
+Etiam porta sem malesuada magna mollis euismod. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Donec sed odio dui. Maecenas sed diam eget risus varius blandit sit amet non magna. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor.
+
+##  Second Subheading
+Cras justo odio, dapibus ac facilisis in, egestas eget quam. Curabitur blandit tempus porttitor. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Cras mattis consectetur purus sit amet fermentum.
+
+Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Vestibulum id ligula porta felis euismod semper. Nullam quis risus eget urna mollis ornare vel eu leo. Aenean lacinia bibendum nulla sed consectetur.
+
+----
+
+Privacy-txt: 
+
+## First Privacy Clause
+Aenean lacinia bibendum nulla sed consectetur. Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo. Donec id elit non mi porta gravida at eget metus.
+
+Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Curabitur blandit tempus porttitor. Donec id elit non mi porta gravida at eget metus.
+
+## Second Privacy Clause
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam id dolor id nibh ultricies vehicula ut id elit. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec id elit non mi porta gravida at eget metus. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Curabitur blandit tempus porttitor.
+
+Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Etiam porta sem malesuada magna mollis euismod. Donec ullamcorper nulla non metus auctor fringilla.
+
+----
+
+Analytics: 

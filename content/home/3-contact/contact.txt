@@ -1,0 +1,44 @@
+Title: Contact Us
+
+----
+
+Text: 
+
+----
+
+Address: 
+
+P. O. Box 6939
+Baulkham Hills NSW 2153
+
+----
+
+Phone-num: +61.415.090.531
+
+----
+
+Phone-display: 0415 090 531
+
+----
+
+Email: 
+
+----
+
+Recipient: admin@scoutcorp.com.au
+
+----
+
+Subject: [SCOUT CORP] Message Sent From Scout Corp Web Site
+
+----
+
+Success-msg: Your message was sent successfully - thank you!
+
+----
+
+Mainemail: admin@scoutcorp.com.au
+
+----
+
+Email-display: send email

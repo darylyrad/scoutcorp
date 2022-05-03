@@ -1,0 +1,45 @@
+Title: Contact Us
+
+----
+
+Text: 
+
+----
+
+Address: 
+
+P. O. Box 9999
+Someplace NSW 9999
+Australia
+
+----
+
+Phone-num: +61.444.888.876
+
+----
+
+Phone-display: 0444 999 876
+
+----
+
+Email: 
+
+----
+
+Recipient: admin@macservery.com
+
+----
+
+Subject: [SCOUT CORP] Message Sent From Scout Corp Web Site
+
+----
+
+Success-msg: Your message was sent successfully - thank you!
+
+----
+
+Mainemail: admin@macservery.com
+
+----
+
+Email-display: send email

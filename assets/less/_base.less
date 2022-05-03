@@ -1,0 +1,435 @@
+// GOOGLE FONTS
+@import url('https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i,900,900i');
+@import url('https://fonts.googleapis.com/css?family=Source+Code+Pro:400,700');
+
+// UIKIT BASE COMPONENTS
+@import '../bower_components/uikit/less/uikit.less';
+
+// SITE-WIDE VARIABLES
+@aqua: #ACCCCF;
+@darkaqua: #015962;
+@midaqua: mix(@aqua, @darkaqua, 50%);
+@gray: #A7A9AC;
+@midgray: mix(@white, @darkgray, 50%);
+@darkgray: #403F41;
+@white: #FFF;
+
+@main-font: 'Roboto', Helvetica, Arial, sans-serif;
+@code-font: 'Source Code Pro', monospace;
+
+// UIKIT OVERRIDES
+@base-body-font-family: @main-font;
+@base-body-font-weight: lighter;
+@base-body-line-height: 23px;
+@base-body-color: @darkgray;
+
+@base-heading-font-family: @main-font;
+@base-heading-color: @darkgray;
+@base-h1-font-size: @base-h2-font-size;
+
+@base-em-color: @midaqua;
+
+@base-code-font-family: @code-font;
+@base-code-color: @darkgray;
+
+@base-link-color: @darkaqua;
+@base-link-hover-text-decoration: none;
+@base-link-hover-color: @aqua;
+
+@block-primary-background: @darkaqua;
+@block-secondary-background: @darkgray;
+
+@modal-dialog-padding: 40px;
+
+.hook-base-h() {
+	margin: 0;
+}
+
+.hook-base-h1() {
+	font-weight: bold;
+}
+
+.hook-base-code() {
+	background-color: @base-pre-background;
+}
+
+.hook-base-link() {
+	background-color: fadeout(@aqua,80%);
+	.soft-transition;
+}
+
+.hook-base-link-hover() {
+	background-color: transparent;
+}
+
+.uk-modal { z-index: 100000; }
+
+// SITE-WIDE STYLES & MIXINS
+.soft-transition() {
+	transition: all 0.4s ease;
+}
+
+video {
+	border: none;
+	overflow: hidden;
+}
+
+/* styles the 'top' and 'bottom' parts of sections that have a pointing triangle at the bottom */
+.section-top(@bg-color: @white) {
+	width: 100vw;
+	height: 90vh;
+	background-color: @bg-color;
+}
+
+.section-bottom(@bg-color: @darkaqua, @pointer-color: @white) {
+	width: 100vw;
+	height: 10vh;
+	background-color: @bg-color;
+
+	.triangle-down {
+		width: 0; 
+		height: 0; 
+		border-left: 20px solid transparent;
+		border-right: 20px solid transparent;
+		border-top: 20px solid @pointer-color;
+		display: inline-block;
+		background-color: transparent;
+		overflow: visible;
+
+		.triangle-inner-link {
+			width: 0; 
+			height: 0; 
+			border-left: 8px solid transparent;
+			border-right: 8px solid transparent;
+			border-top: 8px solid @bg-color;
+			display: inline-block;
+			position: relative;
+			top: -28px;
+			left: -8px;
+			.soft-transition;
+		}
+
+		&:hover .triangle-inner-link {
+			background-color: transparent;
+			top: -20px;
+		}
+	}
+}
+
+/* styles the boxed section titles */
+.boxed-title(@bg-color: @white; @txt-color: @darkaqua) {
+	.titlebox {
+		display: inline-block;
+		min-width: 225px;
+		padding: 10px 25px;
+		margin-bottom: @base-body-font-size * 2;
+		text-transform: uppercase;
+		font-size: @base-body-font-size * 1.25;
+		font-weight: 700;
+		letter-spacing: 2px;
+		background-color: @bg-color;
+		color: @txt-color;
+	}
+}
+
+/* styles the 'contact us' and 'read more' call-to-action buttons */
+.call-to-action(@bg-color: @darkgray; @txt-color: @midgray; @txt-color-hover: @white) {
+	display: inline-block;
+	padding: 10px 25px;
+	margin: @base-body-font-size*2 0;
+	text-transform: lowercase;
+	text-decoration: none;
+	font-size: @base-body-font-size;
+	font-weight: normal;
+	letter-spacing: 2px;
+	background-color: @bg-color;
+	color: @txt-color;
+	box-shadow: 0px 2px 6px fadeout(black, 80%);
+	.soft-transition;
+
+	span { 
+		position: relative; 
+		left: 6px;
+		vertical-align: -3px;
+		color: @txt-color;
+		.soft-transition;
+	}
+
+	&:hover {
+		box-shadow: 0px 2px 12px fadeout(white, 60%);
+		color: @txt-color-hover;
+
+		span { 
+			left: 12px; 
+			color: @txt-color-hover;
+		}
+	}
+}
+
+/* styles the triangular close boxes inside modals and the site menu */
+.modal-close-btn {
+	display: block;
+	margin: @modal-dialog-padding*-1 auto @base-body-font-size*4 auto;
+	padding: 0;
+	background-color: transparent;
+	border: none;
+	overflow: visible;
+	outline: none;
+
+	.modal-close-triangle {
+		width: 0; 
+		height: 0; 
+		border-left: 50px solid transparent;
+		border-right: 50px solid transparent;
+		border-top: 60px solid @darkaqua;
+		display: block;
+
+		.modal-close-icon {
+			color: @white;
+			display: inline-block;
+			position: relative;
+			top: -50px;
+			left: -10px;
+			transform: rotate(0turn);
+			.soft-transition;
+		}
+	}
+
+	&:hover .modal-close-icon {
+		transform: rotate(0.5turn);
+	}
+}
+
+.modal-close {
+	width: 0; 
+	height: 0; 
+	border-left: 50px solid transparent;
+	border-right: 50px solid transparent;
+	border-top: 60px solid @darkaqua;
+	display: block;
+	margin: @modal-dialog-padding*-1 auto @base-body-font-size*4 auto;
+	background-color: transparent;
+	overflow: visible;
+
+	.modal-close-icon {
+		color: @white;
+		display: inline-block;
+		position: relative;
+		top: -50px;
+		left: -12px;
+		transform: rotate(0turn);
+		.soft-transition;
+	}
+
+	&:hover .modal-close-icon {
+		transform: rotate(0.5turn);
+	}
+}
+
+/* styles some of the elements inside our modals consistently */
+.modal-title {
+	text-align: center;
+	margin-bottom: @base-body-font-size*2;
+}
+
+/* styles the grid gallery items in 'About Us', Services', 'Listings', etc. */
+.gallery-item(@txt-color: @midgray; @txt-color-hover:@white) {
+	display: block;
+	padding: 0;
+	background-color: transparent;
+	color: @txt-color;
+	border: 1px solid @txt-color;
+	font-size: @base-body-font-size * 1.15;
+	font-weight: 700;
+	letter-spacing: 2px;
+	box-shadow: none;
+	.soft-transition;
+
+	img { 
+		opacity: 0.25;
+		.soft-transition;
+	}
+
+	.item-description {
+		padding: @base-body-font-size;
+
+		.item-role { 
+			font-weight: 300; 
+			font-size: @base-body-font-size;
+		}
+	}
+
+	&:hover {
+		border: 1px solid @txt-color-hover;
+		color: @txt-color-hover;
+		box-shadow: 0 0 6px @white;
+
+		img { opacity: 0.75;}
+	}
+}
+
+// SITE MENU
+.menu-button-container {
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100vw;
+
+	&.opener {
+		z-index: 99997;
+
+		.modal-close {
+			margin: 0 auto;
+			font-size: 12px;
+			left: 10px;
+		}
+	}
+
+	&.closer {
+		z-index: 99999;
+
+		.modal-close {
+			margin: 0 auto;
+			border-top: 60px solid @white;
+			font-size: 12px;
+			left: 10px;
+
+			.modal-close-icon {
+				color: @darkaqua;
+			}
+		}
+	}
+}
+
+nav#site-menu {
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100vw;
+	height: 100vh;
+	z-index: 99998;
+	box-sizing: border-box;
+	overflow: auto; 
+	background-color: fadeout(@darkaqua,10%);
+	color: fadeout(@white, 50%);
+
+	#menu-bg-toggle {
+		position: absolute;
+		top: 0;
+		left: 0;
+		width: 100vw;
+		height: 100vh;
+		background-color: transparent;
+
+		&:hover {background-color: transparent;}
+	}
+
+	.menu-spacer {
+		width: 100%;
+		height: 17.5vh;
+	}
+
+	.menu-item {
+		margin-top: @base-body-font-size * 1.5;
+
+		.uk-icon-hover { 
+			background-color: transparent;
+			opacity: 0.5; 
+			font-size: 50px;
+			text-shadow: 0 0 0 @white;
+			.soft-transition;
+
+			&:hover { 
+				opacity: 1; 
+				text-shadow: 0 0 12px fadeout(@white,40%);
+			}
+		}
+
+		.text-item {
+			background-color: transparent;
+			color: @white;
+			opacity: 0.5;
+			font-size: @base-body-font-size * 2;
+			font-weight: 900;
+			letter-spacing: 2px;
+			text-shadow: 0 0 0 @white;
+			.soft-transition;
+
+			&:hover { 
+				color: @white;
+				opacity: 1; 
+				text-shadow: 0 0 12px fadeout(@white,40%);
+			}
+		}
+	}
+
+	.contact-social {
+		.uk-icon-hover { 
+			background-color: transparent;
+			opacity: 0.5;
+			margin: @base-body-font-size/2; 
+			font-size: 50px;
+			text-shadow: 0 0 0 @white;
+			.soft-transition;
+
+			&:hover { 
+				opacity: 1; 
+				text-shadow: 0 0 12px fadeout(@white,40%);
+			}
+		}
+	}
+}
+
+// SITE FOOTER
+footer {
+
+	.negative-a() {
+		background-color: transparent;
+		color: @white;
+		text-shadow: 0 0 6px black;
+		.soft-transition;
+
+		&:hover {
+			text-decoration: none;
+			text-shadow: 0 0 6px fadeout(@white,40%);
+		}
+	}
+
+	.contact-social {
+		a {.negative-a();}
+
+		.uk-icon-hover { 
+			opacity: 0.5;
+			margin: @base-body-font-size/2; 
+			font-size: 50px;
+			text-shadow: 0 0 0 @white;
+			.soft-transition;
+
+			&:hover { 
+				opacity: 1; 
+				text-shadow: 0 0 12px fadeout(@white,40%);
+			}
+		}
+	}
+
+	.legal {
+		a {.negative-a();}
+
+		opacity: 0.8;
+		letter-spacing: 1px;
+	}
+
+	.footer-text {
+		a {.negative-a();}
+
+		opacity: 0.8;
+		letter-spacing: 1px;
+		color: fadeout(@white,30%);
+	}
+
+	.uk-modal-dialog {
+		.action-btn {
+			.call-to-action(@darkaqua,@aqua,@white);
+		}
+	}
+}

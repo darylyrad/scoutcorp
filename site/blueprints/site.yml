@@ -1,0 +1,75 @@
+title: Site
+pages: false
+files:
+  sortable: true
+  sanitize: true
+fields:
+  title:
+    label: Title
+    type:  text
+  social_headline:
+    label: Social Links
+    type: headline
+  facebook_url:
+    label: Facebook
+    type: url
+    placeholder: http://facebook.com/mypage
+    width: 1/2
+  linkedin_url:
+    label: LinkedIn
+    type: url
+    placeholder: http://linkedin.com/company/id
+    width: 1/2
+  instagram_url:
+    label: Instagram
+    type: url
+    placeholder: http://instagram.com/account
+    width: 1/2
+  twitter_url:
+    label: Twitter
+    type: url
+    placeholder: http://twitter.com/account
+    width: 1/2
+  pinterest_url:
+    label: Pinterest
+    type: url
+    placeholder: http://pinterest.com/account
+    width: 1/2
+  youtube_url:
+    label: YouTube
+    type: url
+    placeholder: http://youtube.com/channel/id
+    width: 1/2
+  show_social_contacts:
+    label: Show in Contact Section
+    type: checkbox
+    width: 1/2
+    text: show social media links in Contact section
+  show_social_menu:
+    label: Show in Site Menu
+    type: checkbox
+    width: 1/2
+    text: show social media links in the site Menu
+  footer_heading:
+    label: Footer Section
+    type: headline
+  footer_txt:
+    label: Footer Text
+    type: textarea
+  terms_txt:
+    label: Site Terms & Conditions
+    type: textarea
+  privacy_txt:
+    label: Site Privacy Policy
+    type: textarea
+  analytics_heading:
+    label: Analytics Code
+    type: headline
+  analytics:
+    label: Analytics Code Snippet
+    type: textarea
+    buttons: false
+    help: >
+      Paste here the code snippet from your site analytics provider - such as Google Analytics -
+      used to track your site's visitors statistics. This code will be automatically added
+      to the '&lg;head&gt;' section of every page in your site.

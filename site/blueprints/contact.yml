@@ -1,0 +1,65 @@
+title: Contact
+icon: list-alt
+preview: parent
+options: 
+  preview: true
+  status: false
+  template: false
+  url: false
+  delete: false
+pages: false
+files: false
+fields: 
+  title: 
+    label: Title
+    type: title
+  address:
+    label: Address
+    type: textarea
+    buttons: false
+  phone_num:
+    label: Phone for Dialing
+    type: tel
+    width: 1/2
+    required: true
+    placeholder: +61.2.9999.8888
+    help: > 
+      The phone number, as it will be dialled by a mobile phone. 
+      Use '+' then country code, area code (no zero), and phone number. 
+      Use '.' or '-' as separators. Do NOT use spaces.
+  phone_display:
+    label: Phone for Display
+    type: tel
+    width: 1/2
+    placeholder: (02) 9999 8888
+    help: This is the number that will be displayed on the website, and visible to visitors.
+  mainEmail:
+    label: Email Link Address
+    type: email
+    width: 1/2
+    placeholder: info@example.com
+    help: > 
+      this email address will be obfuscated against spam bots.
+  email_display:
+    label: Email Link Text
+    type: text 
+    width: 1/2
+    placeholder: send email
+    help: >
+      DO NOT use a real email address - it can be harvested by spam bots.
+  contact_form_heading:
+    label: Contact Form
+    type: headline
+  recipient:
+    label: Send contact messages to
+    type: email
+    required: true
+  subject:
+    label: Contact Email Subject
+    type: text
+    required: true
+    help: All email messages sent from your site will have this subject heading.
+  success_msg:
+    label: Success Message
+    type: text
+    required: true   

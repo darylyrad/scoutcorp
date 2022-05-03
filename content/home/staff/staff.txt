@@ -1,0 +1,50 @@
+Title: Staff
+
+----
+
+Text: 
+
+----
+
+Stafflist: 
+
+- 
+  staffname: Pellentesque Justo
+  staffrole: Ridiculus Porta Pellentesque
+  staffimage: backlit.jpg
+  stafftext: |
+    Donec sed odio dui. Cras **mattis consectetur** purus sit amet fermentum. Nullam id *dolor id *nibh ultricies vehicula ut id elit. Donec id elit non mi porta gravida at eget metus. Nulla vitae elit libero, a pharetra augue.
+    
+    Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Vestibulum id ligula porta felis euismod semper. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Donec id elit non mi porta gravida at eget metus.
+- 
+  staffname: Malesuada Commodo
+  staffrole: Tristique Cursus
+  staffimage: backshot.jpg
+  stafftext: |
+    Fusce dapibus, tellus ac *cursus commodo*, tortor mauris **condimentum** nibh, ut fermentum massa justo sit amet risus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean lacinia bibendum nulla sed consectetur. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
+    
+    Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Nullam quis risus eget urna mollis ornare vel eu leo. Vestibulum id ligula porta felis euismod semper. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+- 
+  staffname: Commodo Vulputate
+  staffrole: Dolor Aenean
+  staffimage: jane-doe.jpg
+  stafftext: |
+    Curabitur blandit tempus **porttitor**. Maecenas *faucibus* mollis interdum. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Cras mattis consectetur purus sit amet fermentum.
+    
+    Vestibulum id ligula porta felis euismod semper. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean lacinia bibendum nulla sed consectetur. Donec sed odio dui.
+- 
+  staffname: Mollis Adipiscing
+  staffrole: Etiam Quam Ullamcorper
+  staffimage: photographer.jpg
+  stafftext: |
+    Aenean lacinia *bibendum nulla sed* consectetur. Aenean **eu leo** quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Etiam porta sem malesuada magna mollis euismod. Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo. Vestibulum id ligula porta felis euismod semper.
+    
+    Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Sed posuere consectetur est at lobortis. Etiam porta sem malesuada magna mollis euismod. Aenean lacinia bibendum nulla sed consectetur. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+
+----
+
+Contactbtntxt: contact us
+
+----
+
+Modalcontactbtntxt: contact me

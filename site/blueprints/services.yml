@@ -1,0 +1,51 @@
+title: Services
+icon: list-alt
+preview: parent
+options: 
+  preview: true
+  status: false
+  template: false
+  url: false
+  delete: false
+pages: false
+files: 
+  sanitize: true
+  sortable: true
+fields: 
+  title: 
+    label: Title
+    type: title
+  text: 
+    label: Teaser Text
+    type: textarea 
+  serviceList:
+    label: Service List
+    type: structure
+    modalsize: large
+    entry: > 
+      <strong>{{servicetitle}}</strong><br>
+      <em>{{serviceimage}}</em>
+    fields:
+      serviceTitle:
+        label: Title of Service
+        type: text
+        required: true
+      serviceImage:
+        label: Image 
+        type: image
+        help: ideal image size is 1200(wide)x750(tall)pixels - larger images will be resized and cropped automatically.
+      serviceText:
+        label: Description & Details
+        type: textarea 
+  contactBtnTxt:
+    label: Main 'Contact' Button Label
+    type: text
+    width: 1/2
+    placeholder: contact us
+    help: if left empty, the contact button will not be available on the page
+  modalContactBtnTxt:
+    label: Service 'Contact' Button Label
+    type: text
+    width: 1/2
+    placeholder: contact us
+    help: if left empty, the contact button will not be available at the bottom of all service modals

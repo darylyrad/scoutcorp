@@ -1,0 +1,17 @@
+Title: Error
+
+----
+
+Text: 
+
+## Ooops! We can't seem to find the page you are looking for...
+
+Did you type the page's address correctly in your browser?
+
+If you think you found an error or bug in our site, please (email: admin@scoutcorp.com.au text: send us a message). 
+
+In the meantime, head over to our (link: text: home page), and browser through our site!
+
+Or, you can just watch this video of goats screaming like humans:
+
+(youtube: https://www.youtube.com/watch?v=PpccpglnNf0 width: 400 height: 300)

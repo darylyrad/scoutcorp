@@ -1,0 +1,58 @@
+title: Cases
+icon: list-alt
+preview: parent
+options: 
+  preview: true
+  status: true
+  template: false
+  url: false
+  delete: false
+pages: false
+files: 
+  sanitize: true
+  sortable: true
+fields: 
+  title: 
+    label: Title
+    type: title
+  caseList:
+    label: Case Studies List
+    type: structure
+    modalsize: large
+    entry: > 
+      <strong>{{casetitle}}</strong><br>
+      {{quoteauthor}} - <em>{{caseimage}}</em>
+    fields:
+      caseTitle:
+        label: Title
+        type: text
+        required: true
+      caseQuote:
+        label: Selected Quote 
+        type: textarea
+        maxLength: 200
+        buttons: false
+        help: short quote or excerpt - maximum 200 characters. 
+      quoteAuthor:
+        label: Quote Author
+        type: text 
+      caseImage:
+        label: Image 
+        type: image
+        required: true
+        help: ideal image size is 1200(wide)x750(tall)pixels - larger images will be resized and cropped automatically.
+      caseText:
+        label: Modal Text
+        type: textarea
+  readBtnTxt:
+    label: 'Read More' Button Label
+    type: text
+    width: 1/2
+    placeholder: read more
+    help: if left empty, the case study modals will not be available on the page
+  modalContactBtnTxt:
+    label: Modal 'Contact' Button Label
+    type: text
+    width: 1/2
+    placeholder: contact us
+    help: if left empty, the contact button will not be available at the bottom of all case study modals   

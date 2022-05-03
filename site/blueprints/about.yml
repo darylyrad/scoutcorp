@@ -1,0 +1,44 @@
+title: About
+icon: list-alt
+preview: parent
+options: 
+  status: false
+  template: false
+  url: false
+  delete: false
+pages: false
+files: 
+  sanitize: true
+  sortable: true
+fields: 
+  title: 
+    label: Title
+    type: title
+  text: 
+    label: Teaser Text
+    type: textarea 
+  modalHeadline:
+    label: About Modal Window
+    type: headline
+  modalTitle:
+    label: Modal Title
+    type: text 
+  modalImage:
+    label: Modal Image
+    type: image
+    help: ideal image size is 1200(wide)x750(tall)pixels - larger images will be resized and cropped automatically.
+  modalText:
+    label: Modal Text
+    type: textarea
+  modalReadBtnTxt:
+    label: 'Read More' Button Label
+    type: text
+    width: 1/2
+    placeholder: read more
+    help: if left empty, the modal will not be available on the page
+  modalContactBtnTxt:
+    label: 'Contact' Button Label
+    type: text
+    width: 1/2
+    placeholder: contact us
+    help: if left empty, the contact button inside the modal will not be available

@@ -1,0 +1,39 @@
+title: Partners
+icon: list-alt
+preview: parent
+options: 
+  preview: true
+  status: false
+  template: false
+  url: false
+  delete: false
+pages: false
+files: 
+  sortable: true
+  sanitize: true
+fields: 
+  title: 
+    label: Title
+    type: title
+  partnerList:
+    label: Partners List
+    type: structure
+    style: table
+    entry: >
+      Name: <strong>{{partnerName}}</strong><br>
+      Logo: {{partnerLogo}}<br>
+      URL: <em>{{partnerURL}}<em>
+    fields:
+      partnerName:
+        label: Client Name
+        type: text
+      partnerLogo:
+        label: Client Logo
+        type: image
+        required: true
+        help: >
+          Ideal image size is 600(wide)x600(tall) - larger images will be resized and cropped automatically.
+          A grayscale version of the image will be automatically generated.
+      partnerURL:
+        label: Client's Site URL
+        type: url  
